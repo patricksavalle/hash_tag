@@ -69,7 +69,7 @@ Or
 
 Related entry queries are cached for 10m.
 
-To generate a user-presentable index use (beware this can be a very large structure, normally an <UL>). 
+To generate a user-presentable index use (beware this can be a very large structure, normally an &lt;UL&gt;). 
 This index is cached for 1 hour.
 
 
