@@ -14,7 +14,7 @@
 
 
 Hashtags in your content are automatically harvested from the first 10 data_fields + title of an entry and creates an user-presentable index.
-A hashtag can contain alphanumericals and '-' and '_', and must be preceded by a space, start-of-line or &gt; Tike this:
+A hashtag can contain alphanumericals and '-' and '_', and must be preceded by a space, start-of-line or &gt; like this:
 
 > Lorem #ipsum dolor sit amet, #consectetur-adipiscing elit, sed do #Eiusmod_tempor incididunt ut labore et dolore magna aliqua. 
 
@@ -106,8 +106,10 @@ To extract hashtags as meta-tag-keyword format (comma-separated):
 ## Change Log
 
 0.1 bare minimum to start experimenting
+
 0.9 fully functional, still fine tuning on a live site
-    
+
+1.0 Production ready
     
 ## License
 
