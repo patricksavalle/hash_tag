@@ -68,6 +68,7 @@ class Hash_tag {
 		if ($query->num_rows() == 0)
 		{
 			$this->return_data = ee()->TMPL->no_results();
+			return;
 		}
 		$results = $query->result_array();
 
